@@ -1,3 +1,2 @@
 # Coursera_Rocket
-###Editing the file!
-#yall how did we get here? this is nuts
+###This project is associated wtih the Cousera IBM Data Science Professional course capstone project.
